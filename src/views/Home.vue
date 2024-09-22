@@ -1,15 +1,11 @@
 <template>
-  <div id="app">
+  <div>
     <h1>Hello world with vue2</h1>
-    <RouterView />
   </div>
 </template>
 
 <script>
 export default {
-  name: "App",
-  components: {},
+  name: "HomePage",
 };
 </script>
-
-<style></style>
